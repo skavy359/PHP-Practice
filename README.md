@@ -1,2 +1,2 @@
 # PHP-Practice
-Learning PHP step by step
+Learning PHP Daily 
